@@ -2,3 +2,4 @@ So, after sitting here untouched for two years (what the heck?) I've hit on a no
 
 The idea is to represent contemporary American law in source code... probably a domain specific language that someone else can write a compiler against in input interface for (say, when the law must be applied to a set of circumstances for judgement.)
 
+This is going to take a ridiculous amount of research, a little invention, and probably collaboration from people much smarter than myself... but that's why we're doing this open source!
